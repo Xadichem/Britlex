@@ -1,0 +1,54 @@
+@import "vars";
+
+.contact {
+  margin: -14px -46px 0;
+
+  &__img {
+    width: 253px;
+    height: 228px;
+    margin: -114px 13px 38px 86px;
+  }
+
+  &__inner-text {
+    width: 290px;
+    height: 84px;
+    margin-left: 56px;
+    font-family: $main-font;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    text-align: center;
+    color: $gray;
+  }
+
+  &__inner-email {
+    margin: 25px 11px 17px 59px;
+    padding: 16px 114px 16px 26px;
+    display: block;
+    font-family: $main-font;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+    color: $gray;
+    border: 1px solid $gray;
+    border-radius: 5px;
+  }
+
+  &__inner-link {
+    width: 290px;
+    height: 60px;
+    margin-left: 64px;
+    margin-bottom: 44px;
+    padding: 20px 110px;
+    font-family: $main-font;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 21px;
+    color: $light;
+    background: $dark;
+    border-radius: 5px;
+  }
+}

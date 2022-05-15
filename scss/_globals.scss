@@ -1,0 +1,17 @@
+@import "vars";
+
+.container {
+  min-width: 320px;
+  margin: 0 auto;
+  padding: 0;
+}
+
+.section-title {
+  margin: 157px 135px;
+  font-family: $main-font;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 80px;
+  color: #000;
+}

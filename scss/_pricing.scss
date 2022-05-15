@@ -1,0 +1,106 @@
+@import "vars";
+
+.pricing {
+  margin: 82px 118px 49px;
+
+  &__title {
+    width: 85px;
+    height: 80px;
+    font-family: $main-font;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 80px;
+    color: $accent;
+  }
+
+  &__img1 {
+    width: 248px;
+    margin: 41px -75px 26px;
+  }
+
+  &__img2 {
+    width: 257px;
+    height: 197px;
+    margin: 18px 0 15px -88px;
+  }
+
+  &__img3 {
+    width: 241px;
+    margin: 28px -75px;
+  }
+
+  &__item-title {
+    width: 223px;
+    height: 28px;
+    margin-left: -73px;
+    font-family: $main-font;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 28px;
+    color: $dark;
+
+    &-1 {
+      text-align: center;
+    }
+
+    &-3 {
+      margin-top: -18px;
+      text-align: center;
+    }
+  }
+  &__item-leed {
+    width: 290px;
+    height: 60px;
+    margin: 14px 0 0 -97px;
+    font-family: $main-font;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 20px;
+    text-align: center;
+    color: $gray;
+
+    &-1 {
+      margin: 25px 0 0 -102px;
+      text-align: center;
+    }
+
+    &-3 {
+      margin: 27px 0 0 -102px;
+    }
+  }
+
+  &__item-details {
+    width: 170px;
+    height: 37px;
+    margin: 38px -18px 0;
+
+    &-1 {
+      margin-top: 16px;
+    }
+
+    &-3 {
+      margin-top: 23px;
+    }
+  }
+  &__item-detail {
+    font-family: $main-font;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    color: $dark;
+  }
+
+  &__item-det {
+    margin-left: 12px;
+    font-family: $main-font;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    color: #546269;
+  }
+}

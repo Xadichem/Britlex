@@ -1,0 +1,117 @@
+@import "vars";
+
+.skills {
+  &__images1 {
+    width: 290px;
+    height: 600px;
+    margin: -125px 15px 45px;
+    padding: 8px 38px;
+    background: #f5f5f5;
+    border-radius: 5px;
+  }
+  &__images3,
+  &__images4 {
+    width: 290px;
+    height: 472px;
+    margin: 61px 16px;
+    background: #f5f5f5;
+    border-radius: 5px;
+  }
+
+  &__images4 {
+    margin-top: -39px;
+  }
+  &__img {
+    width: 213px;
+
+    &--2 {
+      width: 204px;
+      margin: -4px 42px 11px 56px;
+    }
+
+    &--3 {
+      width: 236px;
+      height: 157px;
+      margin: 29px;
+    }
+
+    &--4 {
+      width: 232px;
+      height: 154px;
+      margin: 33px 30px;
+    }
+  }
+
+  &__title {
+    width: 137px;
+    height: 69px;
+    margin: 14px 160px 0 -27px;
+    font-family: $main-font;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 80px;
+    color: $dark;
+
+    &--2 {
+      margin: 1px 29px;
+    }
+
+    &--3 {
+      margin: -7px 15px;
+    }
+
+    &--4 {
+      margin: -12px 15px;
+    }
+  }
+
+  &__text {
+    width: 258px;
+    height: 82px;
+    margin: -6px -18px 20px;
+    font-family: $main-font;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 20px;
+    color: $gray;
+
+    &--2 {
+      margin: -8px 29px;
+    }
+
+    &--3,
+    &--4 {
+      margin: 3px 16px;
+    }
+  }
+
+  &__link {
+    width: 178px;
+    height: 50px;
+    margin: 14px -19px 45px;
+    padding: 13px 30px;
+    background: $dark;
+    border-radius: 5px;
+    font-family: $main-font;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 21px;
+    color: $light;
+    transform: rotate(-0.26deg);
+
+    &--2 {
+      margin: 6px 30px;
+    }
+
+    &--3 {
+      margin: 18px 15px;
+    }
+
+    &--4 {
+      margin: 15px;
+    }
+  }
+}

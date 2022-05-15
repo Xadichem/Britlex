@@ -1,0 +1,1622 @@
+.header {
+  padding: 16px 0 0 8px;
+}
+.header__logo {
+  margin: 3px 0 0 45px;
+  display: inline-block;
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 36px;
+  color: #000;
+}
+.header__logo-img {
+  width: 71px;
+  height: 36px;
+  margin-left: -35px;
+}
+.header__link {
+  width: 772px;
+  height: 30px;
+  margin-top: 10px;
+}
+.header__nav-link {
+  margin-top: -30px;
+  margin-right: 20px;
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 30px;
+  color: #263238;
+}
+.header__talk-link {
+  margin: 30px 0 51px 1px;
+  padding: 17px 50px;
+  width: 220px;
+  height: 70px;
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 36px;
+  color: #000;
+  border: 2px solid #263238;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  border-radius: 5px;
+  list-style: none;
+}
+.header__nav-toggler {
+  margin: 10px;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.container {
+  min-width: 320px;
+  margin: 0 auto;
+  padding: 0;
+}
+
+.section-title {
+  margin: 157px 135px;
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 80px;
+  color: #000;
+}
+
+.banner__img2 {
+  width: 299px;
+  margin: 12px 11px;
+}
+.banner__title {
+  width: 220px;
+  height: 72px;
+  margin-left: 50px;
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 36px;
+  text-align: center;
+  color: #000;
+}
+.banner__info-secondary {
+  width: 290px;
+  height: 63px;
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 21px;
+  text-align: center;
+  color: #8f95a5;
+}
+.banner__dark {
+  background: none;
+  display: none;
+}
+.banner__img1 {
+  display: none;
+}
+
+.skills__images1 {
+  width: 290px;
+  height: 600px;
+  margin: -125px 15px 45px;
+  padding: 8px 38px;
+  background: #f5f5f5;
+  border-radius: 5px;
+}
+.skills__images3, .skills__images4 {
+  width: 290px;
+  height: 472px;
+  margin: 61px 16px;
+  background: #f5f5f5;
+  border-radius: 5px;
+}
+.skills__images4 {
+  margin-top: -39px;
+}
+.skills__img {
+  width: 213px;
+}
+.skills__img--2 {
+  width: 204px;
+  margin: -4px 42px 11px 56px;
+}
+.skills__img--3 {
+  width: 236px;
+  height: 157px;
+  margin: 29px;
+}
+.skills__img--4 {
+  width: 232px;
+  height: 154px;
+  margin: 33px 30px;
+}
+.skills__title {
+  width: 137px;
+  height: 69px;
+  margin: 14px 160px 0 -27px;
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 80px;
+  color: #263238;
+}
+.skills__title--2 {
+  margin: 1px 29px;
+}
+.skills__title--3 {
+  margin: -7px 15px;
+}
+.skills__title--4 {
+  margin: -12px 15px;
+}
+.skills__text {
+  width: 258px;
+  height: 82px;
+  margin: -6px -18px 20px;
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 20px;
+  color: #8f95a5;
+}
+.skills__text--2 {
+  margin: -8px 29px;
+}
+.skills__text--3, .skills__text--4 {
+  margin: 3px 16px;
+}
+.skills__link {
+  width: 178px;
+  height: 50px;
+  margin: 14px -19px 45px;
+  padding: 13px 30px;
+  background: #263238;
+  border-radius: 5px;
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 21px;
+  color: #fff;
+  -webkit-transform: rotate(-0.26deg);
+          transform: rotate(-0.26deg);
+}
+.skills__link--2 {
+  margin: 6px 30px;
+}
+.skills__link--3 {
+  margin: 18px 15px;
+}
+.skills__link--4 {
+  margin: 15px;
+}
+
+.about {
+  margin-top: 50px;
+}
+.about__title {
+  margin: -12px 105px;
+}
+.about__img {
+  width: 283px;
+  margin: 37px 18px;
+}
+.about__text {
+  width: 290px;
+  height: 200px;
+  margin: -12px 18px;
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 20px;
+  text-align: center;
+  color: #8f95a5;
+}
+.about__profes {
+  width: 47px;
+  height: 50px;
+  margin: -29px 138px 8px;
+  display: block;
+  text-align: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 80px;
+  color: #2a3246;
+}
+.about__profes--18 {
+  margin-top: 26px;
+}
+.about__profes--6 {
+  margin-top: 27px;
+}
+.about__professions {
+  width: 45px;
+  height: 23px;
+  margin: -14px 137px 14px;
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 22px;
+  color: #8f95a5;
+}
+.about__professions--6 {
+  margin: 0 89px;
+}
+
+.pricing {
+  margin: 82px 118px 49px;
+}
+.pricing__title {
+  width: 85px;
+  height: 80px;
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 80px;
+  color: #000;
+}
+.pricing__img1 {
+  width: 248px;
+  margin: 41px -75px 26px;
+}
+.pricing__img2 {
+  width: 257px;
+  height: 197px;
+  margin: 18px 0 15px -88px;
+}
+.pricing__img3 {
+  width: 241px;
+  margin: 28px -75px;
+}
+.pricing__item-title {
+  width: 223px;
+  height: 28px;
+  margin-left: -73px;
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 28px;
+  color: #263238;
+}
+.pricing__item-title-1 {
+  text-align: center;
+}
+.pricing__item-title-3 {
+  margin-top: -18px;
+  text-align: center;
+}
+.pricing__item-leed {
+  width: 290px;
+  height: 60px;
+  margin: 14px 0 0 -97px;
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 20px;
+  text-align: center;
+  color: #8f95a5;
+}
+.pricing__item-leed-1 {
+  margin: 25px 0 0 -102px;
+  text-align: center;
+}
+.pricing__item-leed-3 {
+  margin: 27px 0 0 -102px;
+}
+.pricing__item-details {
+  width: 170px;
+  height: 37px;
+  margin: 38px -18px 0;
+}
+.pricing__item-details-1 {
+  margin-top: 16px;
+}
+.pricing__item-details-3 {
+  margin-top: 23px;
+}
+.pricing__item-detail {
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 27px;
+  color: #263238;
+}
+.pricing__item-det {
+  margin-left: 12px;
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 21px;
+  color: #546269;
+}
+
+.contact {
+  margin: -14px -46px 0;
+}
+.contact__img {
+  width: 253px;
+  height: 228px;
+  margin: -114px 13px 38px 86px;
+}
+.contact__inner-text {
+  width: 290px;
+  height: 84px;
+  margin-left: 56px;
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 21px;
+  text-align: center;
+  color: #8f95a5;
+}
+.contact__inner-email {
+  margin: 25px 11px 17px 59px;
+  padding: 16px 114px 16px 26px;
+  display: block;
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 18px;
+  color: #8f95a5;
+  border: 1px solid #8f95a5;
+  border-radius: 5px;
+}
+.contact__inner-link {
+  width: 290px;
+  height: 60px;
+  margin-left: 64px;
+  margin-bottom: 44px;
+  padding: 20px 110px;
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 21px;
+  color: #fff;
+  background: #263238;
+  border-radius: 5px;
+}
+
+.footer {
+  margin: 0 auto;
+}
+.footer__logo-img {
+  width: 71px;
+  height: 36px;
+  margin: 10px 125px 15px;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  text-align: center;
+  font-size: 24px;
+  line-height: 36px;
+}
+.footer__text {
+  width: 305px;
+  height: 17px;
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 11px;
+  line-height: 16px;
+  color: #8f95a5;
+}
+
+@media (min-width: 576px) {
+  .container {
+    min-width: 100%;
+  }
+
+  .header {
+    padding: 21px 0;
+  }
+  .header__logo-img {
+    width: 89px;
+    height: 45px;
+    margin-left: -15px;
+    font-size: 30px;
+    line-height: 45px;
+  }
+  .header__nav-toggler {
+    width: 43px;
+    height: 24px;
+    margin: 10px 50px 0 -60px;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+  }
+
+  .banner__img2 {
+    width: 424px;
+    margin: -26px 76px 19px;
+  }
+  .banner__title {
+    width: 491px;
+    height: 45px;
+    font-size: 34px;
+    line-height: 45px;
+  }
+  .banner__info-secondary {
+    width: 500px;
+    height: 48px;
+    margin-left: 34px;
+    margin-top: 26px;
+    font-size: 16px;
+    line-height: 24px;
+  }
+  .banner__dark {
+    width: 305px;
+    height: 75px;
+    margin: 28px 135px;
+    display: inline-block;
+    font-family: "Poppins", sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    color: #fff;
+    background: #263238;
+    border-radius: 5px;
+  }
+
+  .section-title-1 {
+    width: 78px;
+    height: 80px;
+    margin: 66px 252px 34px;
+    font-size: 30px;
+    line-height: 80px;
+  }
+
+  .skills__wrapper {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+  }
+  .skills__images1 {
+    width: 240px;
+    height: 534px;
+    margin: 1px 30px;
+  }
+  .skills__images2 {
+    width: 240px;
+    height: 534px;
+    background: #f5f5f5;
+    border-radius: 5px;
+  }
+  .skills__images3, .skills__images4 {
+    width: 240px;
+    height: 534px;
+    margin: 34px 32px;
+  }
+  .skills__images4 {
+    margin-left: 2px;
+  }
+  .skills__img {
+    width: 185px;
+    margin: -22px 0 0 -29px;
+  }
+  .skills__img--2 {
+    width: 182px;
+    margin: 5px 0 0 24px;
+  }
+  .skills__img--3 {
+    width: 198px;
+    height: 132px;
+    margin: 28px 44px 0 0;
+  }
+  .skills__img--4 {
+    width: 206px;
+    height: 137px;
+    margin: 33px 10px;
+  }
+  .skills__title {
+    width: 137px;
+    height: 69px;
+    margin: -14px 0 0 -15px;
+  }
+  .skills__title--2 {
+    margin: -16px 26px;
+  }
+  .skills__title--3 {
+    margin: -4px 15px;
+  }
+  .skills__title--4 {
+    margin: -39px 15px 5px;
+  }
+  .skills__text {
+    width: 207px;
+    height: 91px;
+    font-size: 12px;
+    line-height: 18px;
+  }
+  .skills__text--2 {
+    margin: -8px 29px;
+  }
+  .skills__text--3 {
+    margin: 6px 16px;
+  }
+  .skills__text--4 {
+    margin: -9px 16px;
+  }
+  .skills__link {
+    width: 200px;
+    height: 50px;
+    margin-top: 5px;
+  }
+  .skills__link--2 {
+    margin: 136px 30px 0 16px;
+  }
+  .skills__link--3 {
+    margin: 117px 15px;
+  }
+  .skills__link--4 {
+    margin: 129px 15px;
+  }
+
+  .about__title {
+    font-size: 30px;
+    line-height: 80px;
+    margin: -6px 215px;
+  }
+  .about__img {
+    width: 352px;
+    margin: 35px 114px;
+  }
+  .about__text {
+    width: 510px;
+    height: 120px;
+    margin: -12px 18px;
+  }
+  .about__profession {
+    margin: 39px 60px 0 82px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+  }
+  .about__profes {
+    width: 47px;
+    height: 60px;
+    margin-left: 5px;
+  }
+  .about__profes--18 {
+    margin: -27px 0 0 -33px;
+  }
+  .about__profes--6 {
+    margin: -31px 0 0 119px;
+  }
+  .about__professions {
+    width: 446px;
+    height: 21px;
+    margin: 19px 0 0 8px;
+  }
+  .about__professions--18 {
+    margin-left: -36px;
+  }
+  .about__professions--6 {
+    margin: 19px 34px;
+  }
+
+  .pricing {
+    margin: 131px 234px;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+  }
+  .pricing__title {
+    width: 106px;
+    height: 80px;
+    font-size: 30px;
+    line-height: 80px;
+  }
+  .pricing__img1 {
+    width: 291px;
+    margin: 41px -95px 26px;
+  }
+  .pricing__img2 {
+    width: 314px;
+    height: 241px;
+    margin: 68px 0 15px -98px;
+  }
+  .pricing__img3 {
+    width: 253px;
+    margin: 60px -82px;
+  }
+  .pricing__item-title {
+    width: 298px;
+    height: 28px;
+    font-size: 24px;
+    line-height: 28px;
+    margin: 4px -93px;
+  }
+  .pricing__item-title-1 {
+    margin-top: 9px;
+  }
+  .pricing__item-title-3 {
+    margin: -44px -104px 21px;
+  }
+  .pricing__item-leed {
+    width: 500px;
+    height: 42px;
+    font-size: 14px;
+    line-height: 21px;
+    margin: 18px 0 0 -167px;
+  }
+  .pricing__item-details {
+    width: 205px;
+    height: 45px;
+    margin: 38px -28px 0;
+  }
+  .pricing__item-detail {
+    font-size: 22px;
+    line-height: 33px;
+  }
+  .pricing__item-det {
+    font-size: 16px;
+    line-height: 24px;
+  }
+
+  .contact {
+    margin: 160px 0 0 -16px;
+  }
+  .contact__inner-title {
+    width: 169px;
+    height: 80px;
+    margin: 76px 203px 78px 214px;
+    font-size: 30px;
+    line-height: 80px;
+  }
+  .contact__img {
+    width: 358px;
+    height: 322px;
+    margin: 6px 13px 38px 128px;
+  }
+  .contact__inner-text {
+    width: 500px;
+    height: 72px;
+    margin-bottom: 30px;
+  }
+  .contact__inner-mail {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+  }
+  .contact__inner-email {
+    height: 60px;
+    margin: 24px 0 0 48px;
+    padding-right: 134px;
+    font-size: 13px;
+    line-height: 20px;
+    border-radius: 5px 0 0 5px;
+  }
+  .contact__inner-link {
+    width: 193px;
+    height: 60px;
+    margin: 22px 0;
+    padding: 21px 56px;
+    font-size: 16px;
+    line-height: 24px;
+  }
+
+  .footer__logos {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: end;
+        -ms-flex-pack: end;
+            justify-content: flex-end;
+  }
+  .footer__logo-img {
+    width: 89px;
+    height: 45px;
+    margin-left: 33px;
+    font-size: 30px;
+    line-height: 45px;
+  }
+  .footer__text {
+    width: 400px;
+    margin: 38px 0 0 -43px;
+    font-size: 12px;
+    line-height: 18px;
+  }
+}
+@media (min-width: 767px) {
+  .container {
+    min-width: 767px;
+  }
+
+  .header {
+    padding: 3px 39px;
+  }
+  .header__logo-img {
+    width: 89px;
+    height: 45px;
+    font-size: 30px;
+    line-height: 45px;
+  }
+
+  .navbar-toggler-icon {
+    width: 30px;
+    height: 17px;
+    margin-top: -9px;
+    margin-left: -67px;
+  }
+
+  .banner__row {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+  }
+  .banner__img2 {
+    width: 352px;
+    position: absolute;
+    left: 329px;
+  }
+  .banner__col {
+    position: absolute;
+    left: -39px;
+  }
+  .banner__title {
+    width: 217px;
+    height: 135px;
+    margin-left: 79px;
+    font-size: 36px;
+    line-height: 45px;
+    text-align: left;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+  }
+  .banner__title::after {
+    content: url(../img/img1.svg);
+    background-repeat: no-repeat;
+    width: 50.95px;
+    -webkit-transform: rotate(32.44deg);
+            transform: rotate(32.44deg);
+  }
+  .banner__info-secondary {
+    width: 348px;
+    height: 72px;
+    margin-left: 79px;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: left;
+  }
+  .banner__dark {
+    margin-left: 79px;
+    margin-bottom: 156px;
+  }
+
+  .section-title-1 {
+    margin: 356px 345px;
+  }
+
+  .skills__wrapper {
+    margin-top: -345px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+  }
+  .skills__images1 {
+    width: 224px;
+    height: 662px;
+    margin-right: 14px;
+  }
+  .skills__images2 {
+    width: 227px;
+    height: 441px;
+    margin-right: -14px;
+  }
+  .skills__images3 {
+    width: 228px;
+    height: 442px;
+    margin-top: -2px;
+  }
+  .skills__images4 {
+    width: 462px;
+    height: 210px;
+    position: absolute;
+    left: 270px;
+    margin-top: 458px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: end;
+        -ms-flex-pack: end;
+            justify-content: flex-end;
+  }
+  .skills__img--1 {
+    width: 214px;
+  }
+  .skills__img--1--2 {
+    width: 200px;
+  }
+  .skills__img--1--3 {
+    width: 216px;
+    height: 144px;
+  }
+  .skills__img--1--4 {
+    width: 202px;
+    height: 134px;
+    position: absolute;
+    left: 649px;
+  }
+  .skills__text4 {
+    margin-top: 26px;
+    position: absolute;
+    left: -4px;
+  }
+  .skills__text {
+    font-size: 13px;
+    line-height: 20px;
+  }
+  .skills__link {
+    width: 178px;
+    height: 50px;
+    margin-top: 95px;
+  }
+  .skills__link--2 {
+    margin: 54px 30px 0 16px;
+  }
+  .skills__link--3 {
+    margin: 37px 15px;
+  }
+  .skills__link--4 {
+    margin: 9px 15px;
+  }
+
+  .about__hero {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    gap: 8px;
+  }
+  .about__title {
+    width: 137px;
+    height: 80px;
+    margin-left: 50px;
+    margin-right: 0;
+    font-size: 30px;
+    line-height: 80px;
+    text-align: left;
+  }
+  .about__img {
+    width: 295px;
+    margin: 0 0 0 249px;
+  }
+  .about__text1 {
+    margin-top: 95px;
+    position: absolute;
+    left: -9px;
+    margin-left: 40px;
+  }
+  .about__text {
+    width: 321px;
+    height: 210px;
+    font-size: 14px;
+    line-height: 21px;
+    text-align: left;
+  }
+  .about__profession {
+    margin-left: 9px;
+  }
+  .about__profes--18 {
+    margin-left: -87px;
+  }
+  .about__profes--6 {
+    margin-left: 49px;
+  }
+  .about__professions--18 {
+    margin-left: -98px;
+  }
+
+  .pricing__title {
+    margin-left: 71px;
+  }
+  .pricing__row {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+  }
+  .pricing__img1 {
+    width: 197px;
+    margin-top: 59px;
+    margin-left: -209px;
+  }
+  .pricing__img2 {
+    width: 267px;
+    height: 195px;
+    margin-left: -16px;
+  }
+  .pricing__img3 {
+    width: 242px;
+    margin-top: 29px;
+    margin-left: -16px;
+  }
+  .pricing__item-title {
+    width: 174px;
+    height: 56px;
+    font-size: 20px;
+    line-height: 28px;
+    margin-left: -196px;
+  }
+  .pricing__item-title-1 {
+    width: 207px;
+    height: 48px;
+    font-size: 22px;
+    line-height: 48px;
+    margin-top: 2px;
+    margin-left: 15px;
+  }
+  .pricing__item-title-3 {
+    width: 180px;
+    height: 48px;
+    font-size: 22px;
+    line-height: 48px;
+    margin-top: -50px;
+    margin-left: 15px;
+  }
+  .pricing__item-leed {
+    width: 206px;
+    height: 84px;
+    font-size: 14px;
+    line-height: 21px;
+    margin-left: -199px;
+    text-align: left;
+  }
+  .pricing__item-leed-1 {
+    width: 249px;
+    height: 48px;
+    font-size: 16px;
+    line-height: 24px;
+    margin-top: 28px;
+    margin-left: 15px;
+  }
+  .pricing__item-leed-3 {
+    width: 240px;
+    height: 72px;
+    margin-top: 29px;
+    margin-left: 15px;
+  }
+  .pricing__item-details {
+    width: 170px;
+    height: 33px;
+    margin-left: -198px;
+  }
+  .pricing__item-details-1 {
+    margin-top: 80px;
+    margin-left: 35px;
+  }
+  .pricing__item-details-3 {
+    margin-top: 56px;
+    margin-left: 15px;
+  }
+
+  .contact {
+    padding: 40px 0 12px;
+    margin-bottom: 278px;
+  }
+  .contact__inner {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+  }
+  .contact__inner-title {
+    margin-top: -79px;
+    margin-left: 134px;
+    position: absolute;
+    left: 230px;
+  }
+  .contact__img {
+    width: 312px;
+    height: 281px;
+    margin-top: -59px;
+    position: absolute;
+    left: -115px;
+  }
+  .contact__inner-col {
+    width: 446px;
+    height: 72px;
+    margin-left: -29px;
+    position: absolute;
+    left: 339px;
+  }
+  .contact__inner-text {
+    width: 376px;
+    height: 92px;
+    text-align: left;
+  }
+  .contact__inner-email {
+    width: 323px;
+    height: 50px;
+    margin-right: 5px;
+    padding: 16px 71px 16px 14px;
+    font-size: 12px;
+    line-height: 18px;
+    border-radius: 10px;
+  }
+  .contact__inner-link {
+    width: 145px;
+    height: 50px;
+    font-size: 13px;
+    line-height: 20px;
+    padding: 15px 40px;
+  }
+
+  .footer {
+    margin: 0;
+  }
+  .footer__logo-img {
+    width: 89px;
+    height: 45px;
+    margin: 18px 300px 15px 38px;
+    font-size: 30px;
+    line-height: 45px;
+  }
+}
+@media (min-width: 992px) {
+  .container {
+    min-width: 100%;
+  }
+
+  .header__logo-img {
+    margin-top: -45px;
+    margin-right: 97px;
+  }
+  .header__talk-link {
+    width: 160px;
+    height: 50px;
+    margin-left: -230px;
+    padding: 12px 30px;
+    font-size: 18px;
+    line-height: 27px;
+  }
+
+  .banner__img2 {
+    width: 460px;
+    margin-left: 169px;
+  }
+  .banner__title {
+    width: 290px;
+    height: 192px;
+  }
+  .banner__info-secondary {
+    font-size: 20px;
+    line-height: 30px;
+    margin: -25px 83px 33px;
+  }
+
+  .skills {
+    margin: 47px 80px 0 5px;
+  }
+  .skills__images1 {
+    width: 303px;
+    height: 696px;
+  }
+  .skills__images2 {
+    width: 302px;
+    height: 441px;
+  }
+  .skills__images3 {
+    width: 304px;
+    height: 442px;
+  }
+  .skills__images4 {
+    width: 616px;
+    height: 241px;
+    margin-left: 87px;
+  }
+  .skills__title {
+    width: 183px;
+    height: 69px;
+    font-size: 22px;
+    line-height: 80px;
+  }
+  .skills__title--2 {
+    margin: -24px 26px 8px;
+  }
+  .skills__img--1 {
+    width: 260px;
+    margin-left: -7px;
+  }
+  .skills__img--2 {
+    width: 205px;
+    margin-left: 67px;
+  }
+  .skills__img--3 {
+    width: 243px;
+    height: 162px;
+    margin-left: 29px;
+  }
+  .skills__img--4 {
+    width: 254px;
+    height: 169px;
+    margin-left: -92px;
+  }
+  .skills__text {
+    font-size: 14px;
+    line-height: 21px;
+  }
+  .skills__link--4 {
+    margin: 49px 15px;
+  }
+
+  .section-title-1 {
+    margin-top: 450px;
+    margin-left: 450px;
+  }
+
+  .about__title {
+    width: 165px;
+    height: 80px;
+    font-size: 36px;
+    line-height: 80px;
+  }
+  .about__img {
+    width: 336px;
+    position: absolute;
+    left: 598px;
+    margin-left: 0;
+  }
+  .about__text {
+    width: 545px;
+    height: 192px;
+    font-size: 16px;
+    line-height: 24px;
+  }
+  .about__profes--18 {
+    margin-left: -37px;
+  }
+  .about__profes--6 {
+    margin-left: 119px;
+  }
+  .about__professions--18 {
+    margin-left: -38px;
+  }
+  .about__professions--6 {
+    margin-left: 79px;
+  }
+
+  .pricing {
+    margin-top: 401px;
+  }
+  .pricing__title {
+    margin-left: 203px;
+  }
+  .pricing__img1 {
+    width: 222px;
+    margin-left: -165px;
+  }
+  .pricing__img2 {
+    width: 267px;
+    height: 195px;
+    margin-left: 27px;
+  }
+  .pricing__img3 {
+    width: 242px;
+    margin-top: 29px;
+    margin-left: 72px;
+  }
+  .pricing__item-title {
+    width: 273px;
+    height: 34px;
+    font-size: 22px;
+    line-height: 34px;
+  }
+  .pricing__item-title-1 {
+    margin-top: 32px;
+    margin-left: 15px;
+  }
+  .pricing__item-title-3 {
+    margin-top: -20px;
+    margin-left: 15px;
+  }
+  .pricing__item-leed {
+    width: 312px;
+    height: 72px;
+    font-size: 16px;
+    line-height: 24px;
+  }
+  .pricing__item-leed-1 {
+    width: 259px;
+    height: 48px;
+    margin-top: 20px;
+    margin-left: 54px;
+  }
+  .pricing__item-leed-3 {
+    width: 260px;
+    height: 72px;
+    margin-top: 9px;
+    margin-left: 64px;
+  }
+  .pricing__item-details {
+    width: 170px;
+    height: 36px;
+    font-size: 24px;
+    line-height: 36px;
+  }
+  .pricing__item-details-1 {
+    margin-top: 60px;
+    margin-left: 55px;
+  }
+  .pricing__item-details-3 {
+    margin-top: 36px;
+    margin-left: 58px;
+  }
+
+  .contact__inner-title {
+    width: 202px;
+    height: 80px;
+    font-size: 36px;
+    line-height: 80px;
+    margin-left: 183px;
+  }
+  .contact__inner-text {
+    width: 446px;
+    height: 72px;
+    font-size: 16px;
+    line-height: 24px;
+    margin-left: 103px;
+  }
+  .contact__inner-email {
+    width: 323px;
+    height: 60px;
+    font-size: 14px;
+    line-height: 21px;
+    margin-left: 103px;
+    margin-right: 15px;
+  }
+  .contact__inner-link {
+    width: 193px;
+    height: 60px;
+    font-size: 16px;
+    line-height: 24px;
+  }
+
+  .footer__logo-img {
+    margin-left: 33px;
+  }
+  .footer__text {
+    width: 776px;
+    height: 24px;
+    margin-left: 122px;
+    font-size: 16px;
+    line-height: 24px;
+  }
+}
+@media (min-width: 1600px) {
+  .container {
+    min-width: 100%;
+  }
+
+  .header__logo-img {
+    width: 106px;
+    height: 54px;
+    font-size: 36px;
+    line-height: 54px;
+    margin-right: 253px;
+  }
+  .header__nav-link {
+    font-size: 20px;
+    line-height: 30px;
+    margin-right: 49px;
+  }
+  .header__talk-link {
+    width: 220px;
+    height: 70px;
+    font-size: 24px;
+    line-height: 36px;
+    margin-left: 110px;
+  }
+
+  .banner__img2 {
+    width: 661px;
+    margin: 51px 123px 0 516px;
+  }
+  .banner__title {
+    width: 386px;
+    height: 240px;
+    font-size: 64px;
+    line-height: 80px;
+    margin: 115px 129px 40px;
+  }
+  .banner__info-secondary {
+    width: 532px;
+    height: 108px;
+    font-size: 24px;
+    line-height: 36px;
+    margin: 50px 127px;
+  }
+  .banner__dark {
+    width: 438px;
+    height: 118px;
+    font-size: 36px;
+    line-height: 54px;
+    margin-left: 127px;
+  }
+
+  .skills {
+    margin: 193px 0 282px;
+  }
+  .skills__images1 {
+    width: 435px;
+    height: 894px;
+    margin-left: 87px;
+  }
+  .skills__images2 {
+    width: 434px;
+    height: 531px;
+    margin-left: 31px;
+  }
+  .skills__images3 {
+    width: 435px;
+    height: 532px;
+    margin-left: -18px;
+  }
+  .skills__images4 {
+    width: 915px;
+    height: 340px;
+    margin-top: 560px;
+    margin-left: 297px;
+  }
+  .skills__title {
+    width: 144px;
+    height: 80px;
+    font-size: 30px;
+    line-height: 80px;
+  }
+  .skills__title--2 {
+    margin: -24px 26px 8px;
+  }
+  .skills__title--4 {
+    margin-top: 33px;
+    margin-left: 48px;
+  }
+  .skills__img--1 {
+    width: 390px;
+  }
+  .skills__img--2 {
+    width: 293px;
+    margin-left: 112px;
+  }
+  .skills__img--3 {
+    width: 371px;
+    height: 247px;
+    margin-left: 4px;
+  }
+  .skills__img--4 {
+    width: 382px;
+    height: 255px;
+    margin-left: -92px;
+  }
+  .skills__text {
+    width: 347px;
+    height: 188px;
+    font-size: 16px;
+    line-height: 24px;
+  }
+  .skills__text--1 {
+    margin-top: -109px;
+  }
+  .skills__text--2 {
+    width: 393px;
+    height: 72px;
+  }
+  .skills__text--3 {
+    width: 423px;
+    height: 72px;
+  }
+  .skills__text--4 {
+    width: 386px;
+    height: 72px;
+    margin-left: 48px;
+  }
+  .skills__link {
+    margin-top: -25px;
+  }
+  .skills__link--4 {
+    margin: 39px 48px;
+  }
+
+  .section-title-1 {
+    width: 124px;
+    height: 80px;
+    margin: 940px 738px 392px;
+    font-size: 48px;
+    line-height: 80px;
+  }
+
+  .about {
+    margin-bottom: 229px;
+  }
+  .about__title {
+    width: 219px;
+    height: 80px;
+    font-size: 48px;
+    line-height: 80px;
+    margin-left: 87px;
+  }
+  .about__img {
+    width: 500px;
+    margin-left: 394px;
+  }
+  .about__text {
+    width: 635px;
+    height: 240px;
+    font-size: 20px;
+    line-height: 30px;
+    margin: 23px 0 23px 57px;
+  }
+  .about__profes {
+    width: 93px;
+    height: 80px;
+    font-size: 48px;
+    line-height: 80px;
+    margin-left: 47px;
+  }
+  .about__profes--18 {
+    margin-left: -7px;
+  }
+  .about__profes--6 {
+    margin-left: 197px;
+  }
+  .about__professions {
+    margin-left: 48px;
+    font-size: 20px;
+    line-height: 30px;
+  }
+  .about__professions--18 {
+    margin-left: 18px;
+  }
+  .about__professions--6 {
+    margin-left: 179px;
+  }
+
+  .pricing {
+    margin-top: 582px;
+  }
+  .pricing__title {
+    width: 169px;
+    height: 80px;
+    margin-left: 515px;
+    font-size: 48px;
+    line-height: 80px;
+  }
+  .pricing__img1 {
+    width: 311px;
+  }
+  .pricing__img2 {
+    width: 391px;
+    height: 283px;
+    margin-left: 98px;
+  }
+  .pricing__img3 {
+    width: 340px;
+    margin-top: 29px;
+    margin-left: 10px;
+  }
+  .pricing__item-title {
+    width: 372px;
+    height: 48px;
+    font-size: 30px;
+    line-height: 48px;
+  }
+  .pricing__item-title-1 {
+    margin-left: 70px;
+  }
+  .pricing__item-title-3 {
+    margin-left: -35px;
+  }
+  .pricing__item-leed {
+    width: 427px;
+    height: 90px;
+    font-size: 20px;
+    line-height: 30px;
+  }
+  .pricing__item-leed-1 {
+    width: 505px;
+    height: 60px;
+    margin-left: 114px;
+  }
+  .pricing__item-leed-3 {
+    width: 400px;
+    height: 70px;
+    margin-top: -9px;
+    margin-left: 24px;
+  }
+  .pricing__item-details {
+    width: 198px;
+    height: 45px;
+    font-size: 30px;
+    line-height: 45px;
+    background: #eeeeee;
+    border-radius: 5px;
+  }
+  .pricing__item-details-1 {
+    margin-left: 115px;
+  }
+  .pricing__item-details-3 {
+    margin-left: 28px;
+  }
+
+  .contact {
+    margin-bottom: 433px;
+  }
+  .contact__img {
+    width: 477px;
+    height: 429px;
+    margin-left: 167px;
+  }
+  .contact__inner-title {
+    width: 269px;
+    height: 80px;
+    font-size: 48px;
+    line-height: 80px;
+    margin-left: 500px;
+  }
+  .contact__inner-text {
+    width: 776px;
+    height: 60px;
+    font-size: 20px;
+    line-height: 30px;
+    margin: 40px 420px 50px;
+  }
+  .contact__inner-email {
+    width: 450px;
+    height: 80px;
+    font-size: 16px;
+    line-height: 24px;
+    margin-left: 420px;
+    padding: 23px 252px 30px 33px;
+  }
+  .contact__inner-link {
+    width: 264px;
+    height: 80px;
+    font-size: 20px;
+    line-height: 30px;
+    padding: 25px 82px;
+  }
+
+  .footer__logo-img {
+    width: 106px;
+    height: 54px;
+    margin-left: -33px;
+    font-size: 36px;
+    line-height: 54px;
+  }
+  .footer__text {
+    width: 644px;
+    height: 36px;
+    margin-left: 462px;
+    font-size: 24px;
+    line-height: 36px;
+  }
+}

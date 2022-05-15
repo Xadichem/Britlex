@@ -1,0 +1,58 @@
+@import "vars";
+
+.header {
+  padding: 16px 0 0 8px;
+
+  &__logo {
+    margin: 3px 0 0 45px;
+    display: inline-block;
+    font-family: $main-font;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 36px;
+    color: #000;
+  }
+  &__logo-img {
+    width: 71px;
+    height: 36px;
+    margin-left: -35px;
+  }
+  &__link {
+    width: 772px;
+    height: 30px;
+    margin-top: 10px;
+  }
+  &__nav-link {
+    margin-top: -30px;
+    margin-right: 20px;
+    font-family: $main-font;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    color: #263238;
+  }
+  &__talk-link {
+    margin: 30px 0 51px 1px;
+    padding: 17px 50px;
+    width: 220px;
+    height: 70px;
+    font-family: $main-font;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 36px;
+    color: #000;
+    border: 2px solid #263238;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    border-radius: 5px;
+    list-style: none;
+  }
+
+  &__nav-toggler {
+    margin: 10px;
+    align-items: center;
+  }
+}

@@ -1,0 +1,42 @@
+@import "vars";
+
+.banner {
+  &__img2 {
+    width: 299px;
+    margin: 12px 11px;
+  }
+
+  &__title {
+    width: 220px;
+    height: 72px;
+    margin-left: 50px;
+    font-family: $main-font;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 36px;
+    text-align: center;
+    color: $accent;
+  }
+
+  &__info-secondary {
+    width: 290px;
+    height: 63px;
+    font-family: $main-font;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    text-align: center;
+    color: $gray;
+  }
+
+  &__dark {
+    background: none;
+    display: none;
+  }
+
+  &__img1 {
+    display: none;
+  }
+}

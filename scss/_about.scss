@@ -1,0 +1,66 @@
+@import "vars";
+
+.about {
+  margin-top: 50px;
+
+  &__title {
+    margin: -12px 105px;
+  }
+
+  &__img {
+    width: 283px;
+    margin: 37px 18px;
+  }
+
+  &__text {
+    width: 290px;
+    height: 200px;
+    margin: -12px 18px;
+    font-family: $main-font;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 20px;
+    text-align: center;
+    color: $gray;
+  }
+
+  &__profes {
+    width: 47px;
+    height: 50px;
+    margin: -29px 138px 8px;
+    display: block;
+    text-align: center;
+    align-items: center;
+    font-family: $main-font;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 80px;
+    color: #2a3246;
+
+    &--18 {
+      margin-top: 26px;
+    }
+
+    &--6 {
+      margin-top: 27px;
+    }
+  }
+
+  &__professions {
+    width: 45px;
+    height: 23px;
+    margin: -14px 137px 14px;
+    font-family: $main-font;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 22px;
+    color: $gray;
+
+    &--6 {
+      margin: 0 89px;
+    }
+  }
+}
